@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently trying to learn machine learning and the maths behind it all
+MSc in Data Science and Analytics, UKM
 
 
 ## 🌐 Socials:
